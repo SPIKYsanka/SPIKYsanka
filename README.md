@@ -13,7 +13,7 @@
 <br>
 
 
-# <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> A B O U T   M E
+# <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> A B O U T _ M E
 <div align="center">
 
 ![0109](https://github.com/SPIKYsanka/SPIKYsanka/blob/main/bio%20(2).gif?raw=true)
