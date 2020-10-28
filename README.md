@@ -28,8 +28,30 @@
 <br>
 
 
-# <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> S K I L L S<img src="https://img.icons8.com/offices/2x/einstein.png"/>
- ![](https://img.shields.io/badge/Unreal_Engine-4?style=for-the-badge&logo=Unreal-Engine&logoColor=white&color=000000) ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ADD8E6)   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080) ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080)  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF4500) ![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=for-the-badge&logo=adobe&logoColor=white&color=800080) ![](https://img.shields.io/badge/Sony-Vegas-informational?style=for-the-badge&logo=moo&logoColor=white&color=0000A0) ![](https://img.shields.io/badge/Apache-NetBeans-IDE?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white&color=C0C0C0) 
+# <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> T O O L  &  T E C H <img src="https://img.icons8.com/offices/2x/einstein.png"/>
+ ![](https://img.shields.io/badge/Unreal_Engine-4?style=for-the-badge&logo=Unreal-Engine&logoColor=white&color=000000) ![](https://img.shields.io/badge/Adobe-Aftereffects-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ADD8E6)   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080) ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=800080)  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF0000) ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=for-the-badge&logo=adobe&logoColor=white&color=FF4500) ![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=for-the-badge&logo=adobe&logoColor=white&color=800080) ![](https://img.shields.io/badge/Sony-Vegas-informational?style=for-the-badge&logo=moo&logoColor=white&color=0000A0) ![](https://img.shields.io/badge/Apache-NetBeans-IDE?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white&color=C0C0C0) 
+
+
+
+  ![](https://img.shields.io/badge/Intellij-Idea-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Android-Studio-informational?style=for-the-badge&logo=android&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Git-Bash-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Unity-Engine-informational?style=for-the-badge&logo=unity&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Unreal-Engine-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/VS-Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
+  
+<br>
+
+## 🎵 V I B E &nbsp; C H E C K &nbsp; <img src="https://media.giphy.com/media/QBYXXfVNmEFfvghkry/giphy.gif" width="40px">
+
+
+  https://open.spotify.com/user/y4yqphomz8vl959vdgp2ohjup?si=9rJvnNBDQX-n8MHZKNJjZw
+ 
+<img align="center" alt="spiky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SPIKYsanka&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
+</div>
  
 <img align="center" alt="spiky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SPIKYsanka&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
 </div>
