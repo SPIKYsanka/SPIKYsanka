@@ -4,11 +4,11 @@
 <br>
 <p align="center"> 
   <a href="https://twitter.com/ERiC_SPiKY"><img height="48" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/twitter-2-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/spiky_sanka/"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/instagram-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sanka-j-472a03a9/"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/linkedin-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://www.behance.net/sankajayathi"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/behance-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://dribbble.com/ERIC_SPIKY"><img height="30" src="https://icons.iconarchive.com/icons/graphics-vibe/neon-glow-social/64/dribbble-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/profiles/76561198166399293/"><img height="30" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/64/Steam-icon.png"></a>
+  <a href="https://www.instagram.com/spiky_sanka/"><img height="48" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/instagram-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanka-j-472a03a9/"><img height="48" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/linkedin-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://www.behance.net/sankajayathi"><img height="48" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/behance-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://dribbble.com/ERIC_SPIKY"><img height="48" src="https://icons.iconarchive.com/icons/graphics-vibe/neon-glow-social/64/dribbble-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561198166399293/"><img height="48" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/64/Steam-icon.png"></a>
 </p>
 <br>
 
