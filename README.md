@@ -1,5 +1,5 @@
 <div align = "center">
-    <h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">S A N K A &nbsp;&nbsp; S P I K Y</h2></h2>
+   <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> <h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">S P I K Y &nbsp;&nbsp; S A N K A</h2></h2>
 
 <br>
 <p align="center"> 
