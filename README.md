@@ -45,7 +45,6 @@
 
 
   https://open.spotify.com/user/y4yqphomz8vl959vdgp2ohjup?si=9rJvnNBDQX-n8MHZKNJjZw
- [![spikys's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=SPIKYsanka&layout=compact&theme=dracula&show_icons=true&count_private=true?)](https://github.com/SPIKYsanka/github-readme-stats)
 <br><br>
 <img align="center" alt="spiky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SPIKYsanka&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
 </div>
