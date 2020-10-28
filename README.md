@@ -19,7 +19,7 @@
 ![0109](https://github.com/SPIKYsanka/SPIKYsanka/blob/main/bio%20(2).gif?raw=true)
 
 </div>
-
+<CENTER>
 ## <img src="https://media.giphy.com/media/kg1QdNSiawGak25Wr4/giphy.gif" width="30px"> S K I L L S<img src="https://img.icons8.com/offices/2x/einstein.png"/>
 <br>
 <p align="center"><img align="left" alt="Visual Studio Code" width="35px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png" /> <img align="left" alt="HTML5" width="35px" src="https://icons.iconarchive.com/icons/designbolts/embossed-social/64/HTML5-icon.png" /> <img align="left" alt="CSS3" width="35px" src="https://icons.iconarchive.com/icons/designbolts/embossed-social/64/CSS3-icon.png" /><img align="left" alt="JAVASC" width="35px" src="https://icons.iconarchive.com/icons/graphics-vibe/developer/64/javascript-icon.png" />
