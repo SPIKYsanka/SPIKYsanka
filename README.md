@@ -49,7 +49,4 @@
 <img align="center" alt="spiky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SPIKYsanka&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
 </div>
  
-<img align="center" alt="spiky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SPIKYsanka&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
-</div>
-
 
