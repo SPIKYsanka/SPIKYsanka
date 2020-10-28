@@ -3,7 +3,7 @@
 
 <br>
 <p align="center"> 
-  <a href="https://twitter.com/ERiC_SPiKY"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/twitter-2-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ERiC_SPiKY"><img  src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/twitter-2-icon.png"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/spiky_sanka/"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/instagram-icon.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sanka-j-472a03a9/"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/linkedin-icon.png"></a>&nbsp;&nbsp;
   <a href="https://www.behance.net/sankajayathi"><img height="30" src="https://icons.iconarchive.com/icons/uiconstock/gamy-vintage-social/64/behance-icon.png"></a>&nbsp;&nbsp;
